@@ -2,6 +2,8 @@ package txtfilegen;
 
 import java.util.Random;
 
+
+
 public class gennumber {
 
 	int max = 9;
